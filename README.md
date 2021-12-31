@@ -1,5 +1,11 @@
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Seu primeiro projeto Java Web no Spring Boot 2022
->  Veja como é simples construir uma API REST com banco de dados usando Java e Spring Boot 
+<p align="center">
+        <a href="https://www.linkedin.com/in/all-an/">
+        <img align="center" width="106" height="80"  src="/img/javacoffee2.png" />
+</a>
+</p>
+
+ Projeto Java Web no Spring Boot 2022
+>  API REST com banco de dados usando Java e Spring Boot 
 
 ## Detelhes:
 [Allan Pereira Abrahão](https://www.linkedin.com/in/all-an/)
