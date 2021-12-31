@@ -19,7 +19,7 @@
  ##### Créditos e Agradecimentos ao Professor [Nélio Alves](https://devsuperior.com.br)
 ### Conhecimentos Reforçados:
 
-- Lógica de programação
+- Lógica de programação 
 - Programação orientada a objetos
 - Ferramentas:
   - Spring Tool Suite (STS)
@@ -53,7 +53,11 @@ Sistema (API REST) de usuários e departamentos, com os seguintes casos de uso:
 - Configurar o banco de dados H2
 - Criar os endpoints da API REST
 
-### Trechos de código para copiar
+### Endpoints:
+
+- /users 
+- /users/<id>
+- /h2-console  <acesso ao banco de dados H2 pelo navegador>
 
 #### Configuração do Maven Resources Plugin
 
