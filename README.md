@@ -4,6 +4,7 @@
 </a>
 </p>
 
+###### Material de Apoio, autoria: [Nélio Alves](https://devsuperior.com.br)
  Projeto Java Web / Spring Boot 2022
 >  API REST com banco de dados usando Java e Spring Boot 
 
