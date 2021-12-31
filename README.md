@@ -16,9 +16,9 @@
 
 ### Conhecimentos Reforçados:
 
-- Lógica de programação (qualquer linguagem)
-- Programação orientada a objetos (qualquer linguagem)
-- Ferramentas
+- Lógica de programação
+- Programação orientada a objetos
+- Ferramentas:
   - Spring Tool Suite (STS)
   - Postman
 
@@ -90,3 +90,4 @@ INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Bob', 'bob@gmail.com
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Alex', 'alex@gmail.com');
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com');
 ```
+#### Obrigado Professor Nélio Alves [DevSuperior - Escola de programação](https://devsuperior.com.br)
