@@ -4,7 +4,7 @@
 </a>
 </p>
 
-###### Material de Apoio, autoria: [Nélio Alves](https://devsuperior.com.br)
+
  Projeto Java Web / Spring Boot 2022
 >  API REST com banco de dados usando Java e Spring Boot 
 
@@ -94,3 +94,4 @@ INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Alex', 'alex@gmail.c
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com');
 ```
 ##### Obrigado Professor Nélio Alves [DevSuperior - Escola de programação](https://devsuperior.com.br)
+###### Material de Apoio, autoria: [Nélio Alves](https://devsuperior.com.br)
