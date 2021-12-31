@@ -5,7 +5,7 @@
 </p>
 
 
- Projeto Java Web / Spring Boot 2022
+ Projeto Java Web / Spring Boot
 >  API REST com banco de dados usando Java e Spring Boot 
 
 ## Detalhes do Projeto:
