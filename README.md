@@ -58,8 +58,8 @@ Sistema (API REST) de usuários e departamentos, com os seguintes casos de uso:
 - /users 
 - /users/<id>
 - /h2-console  <acesso ao banco de dados H2 pelo navegador>
-  -username=sa
-  -password=
+  - username=sa
+  - password=
 
 #### Configuração do Maven Resources Plugin
 
